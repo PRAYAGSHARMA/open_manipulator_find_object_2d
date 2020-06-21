@@ -6,11 +6,12 @@
 http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_setup/#install-ros-packages    
 
 2. realsense install    
-http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_applications/#installation-1   
+https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_perceptions/#install-realsense-d43-library  
 
 3. open manipulator camera application install   
-http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_applications/#install-ar-marker-package    
-http://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_applications/#install-package    
+https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_perceptions/#setup-raspberry-pi-camera    
+https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_perceptions/#install-ar-marker-package
+https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_applications/#install-package
 
 4. find_object_2d  install    
 sudo apt-get install ros-kinetic-find-object-2d   
